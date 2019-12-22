@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TabDemo</string>
+
+    <string name="tab1">And this is about sports</string>
+    <string name="tab2">And this is about weathers</string>
+    <string name="tab3" tools:ignore="Typos">And this is about wow wow</string>
+
+</resources>
