@@ -7,7 +7,7 @@ import androidx.fragment.app.FragmentStatePagerAdapter;
 
 public class Adapter extends FragmentStatePagerAdapter {
 
-    private int numbOfTab;
+    private final int numbOfTab;
 
     public Adapter(@NonNull FragmentManager fm, int behavior, int numbOfTab) {
         super(fm, behavior);
