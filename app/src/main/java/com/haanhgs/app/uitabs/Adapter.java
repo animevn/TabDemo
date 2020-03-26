@@ -1,4 +1,4 @@
-package com.haanhgs.app.tabdemo;
+package com.haanhgs.app.uitabs;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;

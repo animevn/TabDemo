@@ -1,4 +1,4 @@
-package com.haanhgs.app.tabdemo;
+package com.haanhgs.app.uitabs;
 
 import org.junit.Test;
 
